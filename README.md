@@ -156,4 +156,4 @@ Open the local URL shown in the terminal, usually:
 
 **Arya Churi**
 
-GitHub: YOUR_GITHUB_PROFILE_URL
+GitHub: https://github.com/Aryachuri
